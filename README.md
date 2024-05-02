@@ -1,6 +1,6 @@
 # Reminders
 
-## Bots de whatsapp
+## Whatsapp bots
 
 - I wanna make another whatsapp bot, integrated with instagram, telegram and facebook.
 
